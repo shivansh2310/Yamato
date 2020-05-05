@@ -1,0 +1,21 @@
+
+To Run yamato you have to install some supporting tools, well yamato contains 6 tools but some of them are pre installed in kali linux.
+So, we will only install those tools that are not present in kali distro.
+
+1> Broken link checker
+  ~> Github link :- https://github.com/stevenvachon/broken-link-checker
+    The installation process are prensent in the repo but you have to install go language support to your system
+    for that you can refer :- https://www.youtube.com/watch?v=pEgzfGCCI6s
+    
+2> Sublist3r
+  ~> Github link :- https://github.com/aboul3la/Sublist3r
+  Although this tool is pre installed in kali but if not refer to this github link
+  
+ 
+3> Httprobe
+  ~> Github link:- https://github.com/tomnomnom/httprobe
+    The installation process are prensent in the repo but if you have an issue for that you can refer :- https://www.youtube.com/watch?v=nQs5Bw7ErcU
+    
+4> Eyewitness
+  ~> Github link:- https://github.com/FortyNorthSecurity/EyeWitness
+    Eyewitness is also present in kali linux to install it you have to simply use the command:- apt-get install eyewitness
