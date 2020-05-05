@@ -25,7 +25,7 @@ yamato is very simple to install with the following steps :
 * Nmap port scanning
 * Eyewitness
 ```
-# Contribution & License
+# Contribution
 You can contribute in following ways:
 
 - Report bugs
